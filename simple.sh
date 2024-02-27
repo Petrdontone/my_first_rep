@@ -3,4 +3,4 @@ function foo {
 }
 foo
 
-
+echo "lol"
