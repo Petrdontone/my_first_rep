@@ -1,6 +1,5 @@
 function foo {
-  echo
+  echo "log"
 
-echo "lol"
-qwdqwdqw
-dqwdqwdqwdwq
+dqwdqwdqwd
+}
